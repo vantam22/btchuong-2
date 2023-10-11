@@ -1,0 +1,5 @@
+- Khai bao bien
+- aletr
+- console
+- prompt
+- comment 
